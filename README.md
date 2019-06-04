@@ -1,6 +1,4 @@
-# MetroExodus
-
-Metro Exodus %100 Türkçe Yama - Çeviri : Qnoops
+# Metro Exodus %100 Türkçe Yama - Çeviri : Qnoops
 
 Çeviriye ve güncellemelere ulaşmak için:
 
